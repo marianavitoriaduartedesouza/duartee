@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family-Chakra+Petch:w ght@400:700&display=swap');
-
 :root{
     --cor-de-fundo: #1e1e1e;
     --verde: #6fff57;
